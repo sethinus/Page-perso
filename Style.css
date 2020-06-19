@@ -1,0 +1,71 @@
+
+body{
+    margin: 0;
+    height: 100vh;
+    width:100vw;
+}
+
+
+.entete{
+text-align: center;
+font-family:arial, sans-serif;
+font-size: 300%;
+font-style: normal;
+font-weight: bold;
+color: grey;
+}
+
+#sect1{
+ text-align: justify ;   
+}
+
+
+
+
+
+header{text-align: center;}
+
+hr{
+    width: 90%;
+    margin: 0 auto;
+}
+h2{
+    color: grey;
+}
+
+section{
+    width: 75%;
+    margin: 0 auto;
+}
+
+#img1{
+    text-align: center ;
+}
+
+
+footer{
+background-color: grey;
+min-height: 100px;
+}
+footer p {
+    text-align: center;
+    padding: 10px 0px;
+}
+#para1{
+    color: grey;
+}
+ul{
+    color: rgb(54, 189, 54);
+    font-weight: bold;
+}
+#img2{
+    
+    display: inline    
+    margin: auto;    
+}
+
+#img3{
+    
+    display: inline    
+    margin: auto;    
+}
